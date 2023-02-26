@@ -75,6 +75,7 @@ public class LinearEquationsSolver {
         }
         System.out.println("\nПеревірка пройдена: " + solutionCorrect);
 
+        //хочу бляха нормальне ім'я
     }
 }
 
